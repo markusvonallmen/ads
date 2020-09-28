@@ -1,4 +1,4 @@
-module github.com/c-mueller/ads
+module github.com/markusvonallmen/ads
 
 go 1.13
 
